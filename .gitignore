@@ -1,6 +1,7 @@
 # Ignore PowerPoint presentations
 *.pptx
 *.ppt
+*.bat
 
 # Python cache & environment
 __pycache__/

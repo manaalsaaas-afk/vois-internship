@@ -96,7 +96,7 @@ python execute_notebook.py
 
 | Slide # | Slide Title | Content / Highlights |
 | :---: | :--- | :--- |
-| **1** | Title Slide | Project Title, Student Name (`Aswini Kumar`), College & AICTE ID placeholders |
+| **1** | Title Slide | Project Title, Student Name (`Manal Sas`), College & AICTE ID placeholders |
 | **2** | Problem Statement | Agricultural volatility, information gaps, research objectives & strategic impact |
 | **3** | Project Description | 4,000 farm records, 28 attributes, 6-phase analytical pipeline & exact mathematical imputation |
 | **4** | Who are the End Users? | Farmers/FPOs, Extension Agronomists, Policymakers, Agribusinesses, Crop Insurers |
